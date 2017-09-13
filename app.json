@@ -1,0 +1,16 @@
+{
+  "name": "sharepass",
+  "description": "pass sharing",
+  "scripts": {
+  },
+  "env": {
+  },
+  "formation": {
+  },
+  "addons": [
+
+  ],
+  "buildpacks": [
+
+  ]
+}
